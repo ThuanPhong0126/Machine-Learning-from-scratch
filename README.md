@@ -6,6 +6,6 @@ Author: **Phong**
 Table of contents:
 <ol>
   <li> Linear Regression: House price prediction task
-  <li> Logistic Regression: Heart disease prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/193hqpOtrDlgrw4BG9pLCazmBZEdHa26s)
+  <li> Logistic Regression: Heart disease prediction 
   <li> Simple Neural Network.....
 <ol>
