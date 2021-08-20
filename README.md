@@ -5,7 +5,7 @@ Author: **Phong**
 
 Table of contents:
 <ol>
-  <li> **Linear Regression** : House price prediction task [link](https://github.com/ThuanPhong0126/Machine-Learning-from-scratch/blob/main/Linear-Regression.ipynb)
-  <li> **Logistic Regression** : Heart disease prediction [link](https://github.com/ThuanPhong0126/Machine-Learning-from-scratch/blob/main/Logistic_Regression.ipynb)
-  <li> **Simple Neural Network**.....
+  <li> **Linear** **Regression** : House price prediction task ![link](https://github.com/ThuanPhong0126/Machine-Learning-from-scratch/blob/main/Linear-Regression.ipynb)
+  <li> **Logistic** **Regression** : Heart disease prediction ![link](https://github.com/ThuanPhong0126/Machine-Learning-from-scratch/blob/main/Logistic_Regression.ipynb)
+  <li> **Simple** **Neural** **Network**.....
 <ol>
